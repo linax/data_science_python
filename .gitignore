@@ -5,6 +5,7 @@ __pycache__/
 
 # C extensions
 *.so
+.DS_Store
 
 # Distribution / packaging
 .Python
@@ -126,7 +127,7 @@ celerybeat.pid
 .venv
 env/
 venv/
-qskitenv/
+myenv/
 ENV/
 env.bak/
 venv.bak/
@@ -154,3 +155,5 @@ dmypy.json
 
 # Cython debug symbols
 cython_debug/
+
+.DS_Store
